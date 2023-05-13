@@ -22,5 +22,5 @@ Le cabinet pour lequel s'effectue cette étude est en phase de croissance. Il co
 ## Support de présentation du projet
 <a href="https://github.com/StephaneBertrand34/KNIME_-_Analyse_des_indicateurs_de-l-galite_femmes_-_hommes/blob/main/Bertrand_St%C3%A9phane_3_pr%C3%A9sentation_pdf_042022.pdf" title="Présentation.pdf">Présentation.pdf</a>
 
-## Worflow KNIME (à télécharger)
+## Worflow KNIME
 <a href="https://github.com/StephaneBertrand34/KNIME_-_Analyse_des_indicateurs_de-l-galite_femmes_-_hommes/blob/main/Bertrand_St%C3%A9phane_1_workflow_KNIME_042022.knwf" title="Lien de téléchargement">Lien de téléchargement</a>
